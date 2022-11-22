@@ -1,0 +1,81 @@
+{
+    "books": [
+      {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "genre": "Fiction",
+        "edition": 2011,
+        "author": "J. K. Rowling",
+        "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "publisher": "hula",
+        "cost": "1233",
+        "borrowed": false,
+        "id": 1
+      },
+      {
+        "name": "Batman",
+        "genre": "fiction",
+        "edition": 2002,
+        "author": "J. K. Rowling",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223645611l/107134.jpg",
+        "publisher": "yuvraj",
+        "cost": "12223",
+        "borrowed": false,
+        "id": 2
+      },
+      {
+        "name": "",
+        "genre": "History",
+        "edition": 2021,
+        "author": "",
+        "image": "",
+        "publisher": "",
+        "cost": "4",
+        "borrowed": false,
+        "id": 3
+      },
+      {
+        "name": "",
+        "genre": "History",
+        "edition": 2021,
+        "author": "",
+        "image": "",
+        "publisher": "",
+        "cost": "4",
+        "borrowed": false,
+        "id": 4
+      },
+      {
+        "name": "",
+        "genre": "History",
+        "edition": 2021,
+        "author": "",
+        "image": "",
+        "publisher": "",
+        "cost": "4",
+        "borrowed": false,
+        "id": 5
+      },
+      {
+        "name": "",
+        "genre": "History",
+        "edition": 2021,
+        "author": "",
+        "image": "",
+        "publisher": "",
+        "cost": "4",
+        "borrowed": false,
+        "id": 6
+      },
+      {
+        "name": "",
+        "genre": "History",
+        "edition": 2021,
+        "author": "",
+        "image": "",
+        "publisher": "",
+        "cost": "4",
+        "borrowed": false,
+        "id": 7
+      }
+    ]
+  }
